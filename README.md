@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrOneBullet</h1>
-<h3 align="center">A Junior website developer, Management consultant, Projects Manager</h3>
+<h3 align="center">A Junior Website Developer, Management Consultant, Projects Manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mronebullet&label=Profile%20views&color=0e75b6&style=flat" alt="mronebullet" /> </p>
 
