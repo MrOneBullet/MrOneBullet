@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm MrOneBullet</h1>
-<h3 align="center">Management Consultant , Projects Manager</h3>
+<h1 align="center">Hi 👋, I'm Saif</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mronebullet&label=Profile%20views&color=0e75b6&style=flat" alt="mronebullet" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mronebullet" target="blank"><img src="https://img.shields.io/twitter/follow/mronebullet?logo=twitter&style=for-the-badge" alt="mronebullet" /></a> </p>
-
-- 🔭   General Manger , Development Team Manager [Vetox Bot](https://vetox.io)
 
 - 🌱 I’m currently learning **JavaScript , TypeScript , ReactTs**
 
